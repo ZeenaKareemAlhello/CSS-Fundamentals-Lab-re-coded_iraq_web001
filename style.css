@@ -35,15 +35,15 @@ nav a{
     #details{
     
     background:red;
-    
-    }
- 
- #d{
-   display: block;
+      display: block;
       float:left;
      text-align: center;
     padding-left: 95px;
     padding-right:95px;
+    }
+ 
+ #d{
+ 
  }
 
     
