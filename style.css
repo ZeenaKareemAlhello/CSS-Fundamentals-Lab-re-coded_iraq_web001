@@ -33,7 +33,7 @@ nav a{
      
   
     #details{
-    
+     float:left;
     background:red;
       display: block;
      
@@ -42,9 +42,6 @@ nav a{
     padding-right:95px;
     }
  
- #d{
- 
- }
 
     
    
