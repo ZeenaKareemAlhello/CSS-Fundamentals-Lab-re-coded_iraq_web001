@@ -35,11 +35,11 @@ nav a{
     #details{
     
     background:red;
-    
+    display: block;
       float:left;
      
-    padding-left: 50px;
-    padding-right:5px;
+    padding-left: 100px;
+    padding-right:100px;
     }
  
  
