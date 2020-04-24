@@ -37,7 +37,7 @@ nav a{
     background:red;
     display: block;
       float:left;
-     
+     text-align: center;
     padding-left: 95px;
     padding-right:95px;
     }
